@@ -1,0 +1,7 @@
+{
+  "name": "dtsflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vojtech Miksu <vojtech@miksu.cz>",
+  "license": "MIT"
+}
